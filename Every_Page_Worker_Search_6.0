@@ -5,6 +5,7 @@
 // @description        「記事の編集・削除」でブログ全記事を開いて検索を実行
 // @author        Ameba Blog User
 // @match        https://blog.ameba.jp/ucs/entry/srventrylist*
+// @icon        https://www.google.com/s2/favicons?sz=64&domain=ameba.jp
 // @run-at        document-start
 // @grant        none
 // @updateURL        https://github.com/personwritep/Every_Page_Worker_Search/raw/main/Every_Page_Worker_Search.user.js
